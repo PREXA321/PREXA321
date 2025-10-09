@@ -75,11 +75,31 @@ Innovative application focused on two-wheeler bike management.
 OOP, Data Structures & Algorithms, Secure Authentication, System Design
 
 ---
+## 🎓 Education
+
+**California State University Long Beach**  
+_Master of Science in Computer Science_  
+CGPA: 3.8/4.0  
+Aug 2023 - May 2025, Long Beach, California
+
+**Gujarat Technological University**  
+_Bachelor of Engineering in Computer Engineering_  
+CGPA: 8.39/10.0  
+2018 – 2022, Anand, Gujarat, India
+
+---
 <!-- GitHub & LeetCode Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PREXA321&show_icons=true&theme=radical" alt="Prexa's GitHub stats" height="150"/>
   <img src="https://leetcode.card.workers.dev/?username=Prexa28&theme=dark&font=baloo&extension=null" alt="Prexa's LeetCode stats" height="150"/>
 </p>
+
+---
+## 📜 Certifications
+
+- **AWS Machine Learning – Associate**
+- **Microsoft Azure AI Fundamentals**
+- **AWS Fundamentals: Going Cloud-Native**
 
 ---
 ## 🌐 Connect With Me
