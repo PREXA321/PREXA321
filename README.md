@@ -105,6 +105,7 @@ CGPA: 8.39/10.0
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prexa-kamani-b384461b0/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=portfolio&logoColor=white)](https://prexakamani.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prexakamani@gmail.com)
 
 ---
